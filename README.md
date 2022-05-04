@@ -1,5 +1,6 @@
 <h1 align="center">Hello all 👋, I'm Sam</h1>
-<h3 align="center">A passionate full stack developer from San Antonio, TX</h3>
+<h3 align="center">A passionate full stack web developer from San Antonio, TX</h3>
+<h3 align="center">Check out some of my favorite projects below!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
